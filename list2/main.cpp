@@ -200,6 +200,10 @@ void List::Del(int pos)
     Count--;
 }
 
+void Insrert(int pos = 0)
+{
+
+}
 void List::Print(int pos)
 {
     // Позиция от 1 до Count?
